@@ -1,0 +1,32 @@
+Snooze Function
+============================
+capacitive sensor IC: AT42QT1010-TSHRCT-ND
+make our own electrode plate that is mounted on the top of the enclosure
+needs some supporting capacitors and resistors
+
+Time Increment Function
+============================
+simply a button
+debounce IC
+
+Time/Alarm Display Function
+============================
+simply a switch
+
+Alarm On/Off Function
+============================
+simply a switch
+
+Digit Select Function
+============================
+rotary switch
+priority encoder IC
+
+THINGS ON THE ENCLOSURE
+============================
+-earth ground connection (inside)
+-snooze sensor plate (top)
+-power plug (back)
+-time/alarm display switch (front)
+-time increment button (front)
+-digit select button (front)
